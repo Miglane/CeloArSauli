@@ -2,3 +2,35 @@ html {
   height: 100%;
   width: 100%;
 }
+body{
+  background-color:#AFA5C8;
+  font-family: "Lemonada", cursive;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+}
+h1 {
+  font-family: "Lemonada", cursive;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+  color:#FFE347;
+  text-align: center;
+}
+#llll{
+  background-color: #AB8FB8;
+  margin-left: 200px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: 200px;
+}
+#wwww{
+li {
+  display: inline;
+  margin-left:40px;
+  margin-right:40px;
+  padding-top:700px;
+  padding-bottom: 700px;
+}
+  
+}
