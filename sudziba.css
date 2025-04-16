@@ -61,7 +61,11 @@ h2{
   margin-left:130px;
   margin-right:130px;
   margin-top:0px;
-  
+
+}
+#teksts a{
+  color:#FCDF39;
+  text-decoration: none;
 }
 #apaksa{
   background-color:#7E7497;
