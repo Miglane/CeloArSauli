@@ -18,6 +18,10 @@ h1 {
   text-align: center;
   font-size:40px;
 }
+h1 a{
+  color:#FFE347;
+  text-decoration: none
+}
 #llll{
   background-color: #AB8FB8;
   margin-left: 600px;
